@@ -28,4 +28,4 @@ rm -rf /storage/emulated/0/Android/data/com.snssdk.api.embed
 
 rm -f /storage/emulated/0/Android/data/.nomedia
 
-echo ====================提示====================
+echo ====================提示=====================
