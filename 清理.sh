@@ -1,5 +1,5 @@
 
-rm -rf !(Android|DCIM|Download|清理.sh)
+rm -rf !(Android|DCIM|Download|清理清理清理.sh)
 
 rm -rf /storage/emulated/0/.DataStorage
 rm -rf /storage/emulated/0/.UTSystemConfig
