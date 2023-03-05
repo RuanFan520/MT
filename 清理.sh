@@ -1,5 +1,5 @@
 
-rm -rf !(Android|DCIM|Download|清理清理清理.sh)
+rm -rf !(Android|DCIM|Download|清理.sh)
 
 rm -rf /storage/emulated/0/.DataStorage
 rm -rf /storage/emulated/0/.UTSystemConfig
@@ -28,4 +28,4 @@ rm -rf /storage/emulated/0/Android/data/com.snssdk.api.embed
 
 rm -f /storage/emulated/0/Android/data/.nomedia
 
-echo ====================提示=====================
+echo ====================Quickly=====================
